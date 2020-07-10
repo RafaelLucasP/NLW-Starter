@@ -2,9 +2,9 @@
 
 Aplicação desenvolvida durante a primeira Next Level Week.
 
-![home-image](presentatio-home.png)
+![home-image](public/assets/presentation-home.png)
 
-![form-image](presentatio-form.png)
+![form-image](public/assets/presentation-form.png)
 
 
 ## Descrição ♻️
