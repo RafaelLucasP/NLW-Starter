@@ -2,6 +2,10 @@
 
 Aplicação desenvolvida durante a primeira Next Level Week.
 
+![home-image](public/assets/presentatio-home.png)
+![home-image](public/assets/presentatio-form.png)
+
+
 ## Descrição ♻️
 
 O projeto se chama Ecoleta, uma aplicação web que inspirada pela semana do meio ambiente, visa conectar pontos de coleta de residuos a pessoas dispostas a descartar esses residuos de maneira consciente.
